@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-![Image alt](https://github.com/Ivan24-wq/blob/main/1703441976_elles-top-p-dizain-stola-dlya-programmista-instagram-54.jpg)
+![Image alt](https:/github.com/Ivan24-wq/Ivan24-wq/blob/main/images.jpg)
 <h3 align="center">I am a student in the Faculty of Computer Science and Engineering. I am a developer of Telegram bots using Python. I am also proficient in C++ and Go.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
